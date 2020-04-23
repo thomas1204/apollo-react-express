@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd78d58c-3921-456d-a64a-c7de3696f3c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aTkRkOgYvsC4CgzTpXHKocnMoE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd78d58c-3921-456d-a64a-c7de3696f3c4" name="Default Changelist" comment="" />
+      <created>1586766964831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586766964831</updated>
+      <workItem from="1586766969026" duration="2894000" />
+      <workItem from="1587615117066" duration="134000" />
+    </task>
+    <task id="LOCAL-00001" summary="Chalk package added. Server command added to package.json.">
+      <created>1586767842954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586767842954</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Apollo added">
+      <created>1586769191027</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586769191027</updated>
+    </task>
+    <task id="LOCAL-00003" summary="MongoDb connection and its related files added.">
+      <created>1586770047243</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586770047243</updated>
+    </task>
+    <task id="LOCAL-00004" summary="DB Model file changed to support Async/Await.">
+      <created>1586774556516</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586774556516</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Chalk package added. Server command added to package.json." />
+    <MESSAGE value="Apollo added" />
+    <MESSAGE value="MongoDb connection and its related files added." />
+    <MESSAGE value="DB Model file changed to support Async/Await." />
+    <option name="LAST_COMMIT_MESSAGE" value="DB Model file changed to support Async/Await." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="183" key="CommitChangelistDialog2" timestamp="1586774556420">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="586" y="183" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1586774556420" />
+    <state x="550" y="246" key="SettingsEditor" timestamp="1586774302337">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="550" y="246" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1586774302337" />
+    <state x="648" y="347" key="Vcs.Push.Dialog.v2" timestamp="1586774559490">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="648" y="347" key="Vcs.Push.Dialog.v2/0.23.1920.1177@0.23.1920.1177" timestamp="1586774559490" />
+  </component>
+</project>
