@@ -1,7 +1,7 @@
-const express = require('express');
-const cookieParser = require('cookie-parser');
-const chalk = require('chalk');
-const http = require('http');
+import express from 'express';
+import cookieParser from 'cookie-parser';
+import chalk from 'chalk';
+import http from 'http';
 const port = 8000;
 const app = express();
 
